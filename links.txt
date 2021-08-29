@@ -1,0 +1,7 @@
+# pre trained facenet model facenet_keras.h5
+https://drive.google.com/drive/folders/12aMYASGCKvDdkygSv1yQq8ns03AStDO_
+
+# Dataset used for training
+https://www.kaggle.com/dansbecker/5-celebrity-faces-dataset
+
+Run main.ipynb
